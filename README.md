@@ -20,6 +20,7 @@ Incluye:
 + _Responsive Web Design_ con **Media Queries**
 + Fuentes personalizadas con **Google Fonts**
 + **_Custom Properties_**
++ Imágenes en formato **Avif** y **Webp**
 
 
 #### Librerías y recursos utilizados:
