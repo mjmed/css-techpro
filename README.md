@@ -27,3 +27,9 @@ Incluye:
 + [**Normalize.css**](https://necolas.github.io/normalize.css/)
 + [Fuente **Roboto**](https://fonts.google.com/specimen/Roboto?query=roboto)
 + [Fuente **Lato**](https://fonts.google.com/specimen/Lato?query=lato)
+
+
+#### Versión: 1.0.0
+
+
+#### Site URL: [TechPRO](https://wtest-tech-pro.netlify.app/)
