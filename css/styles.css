@@ -230,9 +230,12 @@ img {
 
 @media (min-width: 1600px) { 
     .sobre-tech {
-        background-size: 100%, 210rem;
+        background-size: 100%, 100%;
+        /* background-position: right, 0% -42rem; */
+        background-position: right, 0% -30rem;
     }
 }
+
 
 .sobre-tech-grid {
     display: grid;
@@ -442,8 +445,8 @@ img {
 
 @media (min-width: 1600px) { 
     .newsletter {
-        background-size: 100%, 200rem;
-        background-position: center, 0% -30rem;
+        background-size: 100%, 100%;
+        background-position: center, 0% -42rem;
     }
 }
 
